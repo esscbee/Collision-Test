@@ -23,7 +23,7 @@ class GameScene: SKScene {
         self.scaleMode = SKSceneScaleMode.ResizeFill
         self.physicsBody = SKPhysicsBody(edgeLoopFromRect: frame)
         print(frame)
-
+        
     }
     override func didChangeSize(oldSize: CGSize) {
         physicsBody = SKPhysicsBody(edgeLoopFromRect: frame)
