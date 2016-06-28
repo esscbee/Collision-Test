@@ -1,2 +1,2 @@
 # Collision-Test
-Shows Collisions, Shake, Multitouch in SpritKit
+Shows Collisions, Shake, Multitouch in SpriteKit
